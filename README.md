@@ -2,9 +2,7 @@
 
 Welcome to my personal portfolio website! This repository contains the source code for an interactive, responsive portfolio built to showcase my skills, projects, and journey as a developer.
 
-## 🚀 Live Demo
 
-*(Add link to live demo here once hosted)*
 
 ## 📖 About This Project
 
