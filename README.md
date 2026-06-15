@@ -52,5 +52,5 @@ To run this project on your local machine:
 - **Codeforces:** [chako_567](https://codeforces.com/profile/chako_567)
 - **Instagram:** [its_chako_1](https://www.instagram.com/its_chako_1)
 
----
-*Built with passion and 0px Border Radius.*
+
+
